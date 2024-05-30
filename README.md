@@ -9,3 +9,5 @@ It includes a calculator sample program which includes the features and operatio
 It also includes the basics of the javascript likely await,async,promise etc.
 
 It also includes the different datatypes and their use accordingly.
+
+It includes various programs releated to async,await and promises ad many more
