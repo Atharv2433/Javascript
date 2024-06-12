@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "title": "Great Product",
+      "content": "I really enjoyed this product. It exceeded my expectations!",
+      "author": "John Doe",
+      "rating": 5,
+      "analytics": {
+        "sentences": [
+          {
+            "text": "I really enjoyed this product.",
+            "sentiment": "positive"
+          },
+          {
+            "text": "It exceeded my expectations!",
+            "sentiment": "positive"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Not Bad",
+      "content": "The product is decent, but there are better options out there.",
+      "author": "Jane Smith",
+      "rating": 3,
+      "analytics": {
+        "sentences": [
+          {
+            "text": "The product is decent,",
+            "sentiment": "neutral"
+          },
+          {
+            "text": "but there are better options out there.",
+            "sentiment": "negative"
+          }
+        ]
+      }
+    }
+  ]
+}
