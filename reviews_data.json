@@ -24,7 +24,7 @@
         "icon": "http://devinnspire.accessai.co:8001/media/sources/booking3.png",
         "image": "http://devinnspire.accessai.co:8001/media/sources/booking_img.com.png"
       },
-      "bookmarked": false,
+      "bookmarked": "fas",
       "bookmark_pk": 0,
       "analytics": [
         {
