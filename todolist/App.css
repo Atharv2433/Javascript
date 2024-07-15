@@ -1,0 +1,54 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid black;
+  width: 700px;
+  height: 600px;
+  color: black;
+  position: relative;
+  left :500px;
+  top:50px;
+}
+
+.rightsidebar {
+  background-color: "red";
+  height: 200px;
+  width: 50px;
+}
+.leftsidebar {
+  background-color: "blue";
+  height: 200px;
+  width: 50px;
+}
+.input {
+  height: 50px;
+  width: 400px;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.submit_button {
+  font-size: 25px;
+  height: 60px;
+}
+button:hover{
+  background-color: black;
+}
+
+.section{
+  border: 2px solid black;
+  width: 550px;
+  height: 100px;
+
+  position: absolute;
+  top:350px;
+  left: 70px;
+}
+ul {
+  list-style-type: none; /* Remove default bullets */
+}
